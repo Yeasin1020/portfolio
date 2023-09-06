@@ -1,0 +1,7 @@
+.footerHover:hover .buttonBlur{
+	filter: blur(3px);
+}
+.footerHover:hover .buttonBlur:hover{
+	filter: blur(0px);
+	text-decoration-line: underline;
+}

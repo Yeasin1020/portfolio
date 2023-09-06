@@ -1,0 +1,7 @@
+.navbarHover:hover .item{
+	filter: blur(3px);
+}
+.navbarHover:hover .item:hover{
+	filter: blur(0px);
+	text-decoration-line: underline;
+}
