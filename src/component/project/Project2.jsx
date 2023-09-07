@@ -82,9 +82,9 @@ const Project2 = () => {
                   <div class="mt-6 sm:text-right">
                     <a
                       href="#"
-                      class="inline-block rounded-lg bg-blue-500 px-5 py-3 text-sm font-medium text-white"
+                      class="button pulse inline-block rounded-lg bg-blue-500 px-5 py-3 text-sm font-medium text-white"
                     >
-                      Find out more
+                      Live View
                     </a>
                   </div>
                 </div>

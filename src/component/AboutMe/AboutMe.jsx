@@ -7,15 +7,7 @@ import LocationOnIcon from "@mui/icons-material/LocationOn";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import "./AboutMe.css";
 
-import Button from "@mui/material/Button";
-import { styled } from "@mui/material/styles";
-import Dialog from "@mui/material/Dialog";
-import DialogTitle from "@mui/material/DialogTitle";
-import DialogContent from "@mui/material/DialogContent";
-import DialogActions from "@mui/material/DialogActions";
-import IconButton from "@mui/material/IconButton";
-import CloseIcon from "@mui/icons-material/Close";
-import Typography from "@mui/material/Typography";
+
 import Project1 from "../project/Project1";
 import Project2 from "../project/Project2";
 import Project0 from "../project/Project0";
